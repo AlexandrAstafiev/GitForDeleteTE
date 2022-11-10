@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteGit", "DeleteGit\DeleteGit.csproj", "{6AF3966F-FDDB-4178-8393-DCA05C65CCCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AF3966F-FDDB-4178-8393-DCA05C65CCCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF3966F-FDDB-4178-8393-DCA05C65CCCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF3966F-FDDB-4178-8393-DCA05C65CCCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF3966F-FDDB-4178-8393-DCA05C65CCCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39B09BB7-3009-447F-94B2-21B56398E194}
+	EndGlobalSection
+EndGlobal
